@@ -7,4 +7,4 @@ And finally cross validated.
 
 To achieve API using Flask we need a base file where we generate a pickle file.
 With the help of pickle file an application file is setup where we use JSON where the input is recieved from the user 
-and the predicted data is retrieved through JSON request and response from apacalling file.
+and the predicted data is retrieved through JSON request and response from apicalling file.
